@@ -66,7 +66,7 @@ with Benedikt Ahrens, Niels van der Weide
 ### Categorical dynamics
 with Rob Ghrist, Miguel Lopez, Hans Riess
 
-- Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf)
+- Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf), [USD](talks/fuzzy-type-theory.pdf)
 - Videos from related talks: [Topos Institute](https://www.youtube.com/live/ql_hrkv6g_g)
 
 ### Structure of the semantics of dependent types
@@ -81,8 +81,8 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 
 - **The univalence principle** (2021), to appear in *Memoirs of the AMS*. [[arXiv](https://arxiv.org/abs/2102.06275)]
 - **A higher structure identity principle** (2020), published in LICS 2020. [[doi](https://doi.org/10.1145/3373718.3394755)][[arXiv](https://arxiv.org/abs/2004.06572)]
-- Slides from related talks: [HoTT 2019](https://paigenorth.github.io/talks/cmu.pdf),[HoTTEST Conference](https://paigenorth.github.io/talks/hottest.pdf), [LICS 2020](https://paigenorth.github.io/talks/lics.pdf), [Penn Pizza Seminar](https://paigenorth.github.io/talks/pizza.pdf), [Algebra \| Coalgebra Seminar](https://paigenorth.github.io/talks/amsterdam.pdf), Penn Logic and Computation Seminar [Part 1](https://paigenorth.github.io/talks/lcs-1.pdf), [Part 2](https://paigenorth.github.io/talks/lcs-2.pdf), [Part 3](https://paigenorth.github.io/talks/lcs-3.pdf), [Max Planck Institute Bonn](https://paigenorth.github.io/talks/bonn.pdf), [North American Annual Meeting of ASL](https://paigenorth.github.io/talks/asl.pdf)
-- Videos from related talks: [HoTTEST Conference](https://youtu.be/aDsY2j1bff4), [LICS 2020](https://youtu.be/kX_ow5Jnf88)
+- Slides from related talks: [HoTT](talks/cmu.pdf),[HoTTEST](talks/hottest.pdf), [LICS](talks/lics.pdf), [Penn Pizza](talks/pizza.pdf), [Algebra \| Coalgebra](talks/amsterdam.pdf), Penn Logic and Computation [Part 1](talks/lcs-1.pdf), [Part 2](talks/lcs-2.pdf), [Part 3](talks/lcs-3.pdf), [MPI](talks/bonn.pdf), [ASL North American Annual Meeting](talks/asl.pdf), 
+- Videos from related talks: [HoTTEST](https://youtu.be/aDsY2j1bff4), [LICS](https://youtu.be/kX_ow5Jnf88)
 
 ### Directed type theory
 
