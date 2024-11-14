@@ -34,38 +34,44 @@ In my research, I apply tools of topology and category theory to problems in com
 # Research projects
 
 ### Formalization of double categories in HoTT/UF 
-jww Nima Rasekh, Niels van der Weide, Benedikt Ahrens
+with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 
 - **Insights From Univalent Foundations: A Case Study Using Double Categories**, to appear in CSL 2025. [[arXiv](https://arxiv.org/abs/2402.05265)]
 - **Univalent Double Categories**, published in CPP 2024. [[doi](https://doi.org/10.1145/3636501.3636955)] [[arXiv](https://arxiv.org/abs/2310.09220)]
 
-### Formalization of model category theory in HoTT/UF (joint with Dennis Hilhorst)
+### Formalization of model category theory in HoTT/UF 
+with Dennis Hilhorst
 
 - **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi]([https://doi.org/10.1145/3636501.3636955](https://doi.org/10.4230/LIPIcs.ITP.2024.20))]
 - Slides from related talks: [ITP 2024]()
 
-### Coalgebraic control of inductive datatypes (joint with Maximilien Péroux, Lukas Mulder)
+### Coalgebraic control of inductive datatypes
+with Maximilien Péroux, Lukas Mulder
 
 - **Measuring data types** (preprint, 2024). [[arXiv](http://arxiv.org/abs/2405.14678)]
 - **Coinductive control of inductive data types**, published in CALCO 2023. [[doi](https://doi.org/10.4230/LIPIcs.CALCO.2023.15)] [[arXiv](https://arxiv.org/abs/2303.16793)]
 
-### Bicategorical type theory (joint with Benedikt Ahrens, Niels van der Weide)
+### Bicategorical type theory
+with Benedikt Ahrens, Niels van der Weide
 
 - **Bicategorical type theory: semantics and syntax**, published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)][[arXiv]()]
 - **Semantics for two-dimensional type theory**, published in LICS 2022. [[doi](https://doi.org/10.1145/3531130.3533334)]
 
-### Categorical dynamics (joint with Rob Ghrist, Miguel Lopez, Hans Riess)
+### Categorical dynamics
+with Rob Ghrist, Miguel Lopez, Hans Riess
 
 - Slides from related talks: [Socio-Math Miniworkshop](https://paigenorth.github.io/talks/bro.pdf)
 - Videos from related talks: [Topos Institute](https://www.youtube.com/live/ql_hrkv6g_g)
 
-### Structure of the semantics of dependent types (joint with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke)
+### Structure of the semantics of dependent types
+with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke
 
 - **Comparing semantic frameworks of dependently-sorted algebraic theories**, published in APLAS 2024. [[doi](https://doi.org/10.1007/978-981-97-8943-6_1)]
 - **Algebraic presentations of dependent type theories** (preprint, 2022). [[arXiv](http://arxiv.org/abs/2111.09948)]
 - **B-systems and C-systems are equivalent**, published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)]
 
-### The univalence principle (joint with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis)
+### The univalence principle
+with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 
 - **The univalence principle** (2021), to appear in *Memoirs of the AMS*. [[arXiv](https://arxiv.org/abs/2102.06275)]
 - **A higher structure identity principle** (2020), published in LICS 2020. [[doi](https://doi.org/10.1145/3373718.3394755)][[arXiv](https://arxiv.org/abs/2004.06572)]
