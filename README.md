@@ -68,7 +68,7 @@ with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke
 
 - **Comparing semantic frameworks of dependently-sorted algebraic theories**, published in APLAS 2024. [[doi](https://doi.org/10.1007/978-981-97-8943-6_1)]
 - **Algebraic presentations of dependent type theories** (preprint, 2022). [[arXiv](http://arxiv.org/abs/2111.09948)]
-- **B-systems and C-systems are equivalent**, published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)]
+- **B-systems and C-systems are equivalent** (2023), published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)]
 
 ### The univalence principle
 with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
