@@ -90,7 +90,7 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - **Type theoretic weak factorization systems**, PhD thesis, 2017, University of Cambridge [[doi](https://doi.org/10.17863/CAM.11207)]
 - Slides from related talks: [Joint Mathematics Meetings 2018](https://paigenorth.github.io/talks/jmm.pdf), [Summer School on Higher Topos Theory and Univalent Foundations at the University of Leeds](https://paigenorth.github.io/talks/leeds.pdf)
 
-### Lone papers
+### Other papers
 
 - **A Hurewicz model structure for directed topology** (2021), joint with S. Krishnan, published in *Theory and Applications of Categories*. [[tac](http://www.tac.mta.ca/tac/volumes/37/20/37-20abs.html)] [[arXiv](https://arxiv.org/abs/1911.02204)]
 - **Univalent foundations and the equivalence principle** (2019), joint with with B. Ahrens, published in *Reflections on the Foundations of Mathematics, Synthese*. [[doi](https://doi.org/10.1007/978-3-030-15655-8_6)] [[pdf](https://paigenorth.github.io/ep.pdf)]
