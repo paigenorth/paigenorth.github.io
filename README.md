@@ -137,4 +137,12 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 
 # Activities
 
+### Current
+- Steering committee chair of [TYPES](https://sites.google.com/view/thetypesconferences)
+- Organizer of [DutchCATS](https://dutchcats.github.io)
+
+### Past
+- Organizer of [WG6 2023 Meeting](https://europroofnet.github.io/wg6-vienna/)
+- Scientific organizer of [HoTT/UF 2022](https://hott-uf.github.io/2022/)
+- Organizer of [Midwest HoTT Seminar](midwest) (cancelled)
 
