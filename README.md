@@ -11,6 +11,8 @@ In my research, I apply tools of topology and category theory to problems in com
 
 # Group
 
+There are currently no PhD or postdoc vacancies.
+
 ### Current members
 
 - [Pim Otte](https://pim.otte.dev), PhD candidate, 2024-
