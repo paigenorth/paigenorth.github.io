@@ -31,6 +31,9 @@ In my research, I apply tools of topology and category theory to problems in com
 - Erin McCloskey, master's student, 2020-2
   - Thesis: [Relative Weak Factorization Systems](https://eprints.illc.uva.nl/id/eprint/2220/)
  
+### Funding
+- From 2021-4, we were funded by the AFOSR.
+ 
 # Research projects
 
 ### Formalization of double categories in HoTT/UF 
