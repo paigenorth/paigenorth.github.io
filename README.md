@@ -142,7 +142,13 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - Organizer of [DutchCATS](https://dutchcats.github.io)
 
 ### Past
+- PC Member of [ACT 2022](https://msp.cis.strath.ac.uk/act2022/), [2023](https://act2023.github.io), [2024](https://oxford24.github.io)
+- PC Member of [STACS 2024](https://stacs2024.limos.fr/index.html)
+- PC Member of [CPP 2024](https://popl24.sigplan.org/home/CPP-2024)
+- PC Member of [SYCO 11](https://www.cl.cam.ac.uk/events/syco/11/), [12](https://www.cl.cam.ac.uk/events/syco/12/)
 - Organizer of [WG6 2023 Meeting](https://europroofnet.github.io/wg6-vienna/)
+- PC Member of [MFPS 2023](https://coalg.org/calco-mfps-2023/mfps/)
+- PC Member of [HoTT/UF 2017](https://hott-uf.github.io/2017/), [2020](https://hott-uf.github.io/2020/), [2021](https://hott-uf.github.io/2021/), [2022](https://hott-uf.github.io/2022/), [2023](https://hott-uf.github.io/2023/)
 - Scientific organizer of [HoTT/UF 2022](https://hott-uf.github.io/2022/)
-- Organizer of [Midwest HoTT Seminar](midwest) (cancelled)
+- Organizer of [Midwest HoTT Seminar 2020](midwesthott) (cancelled)
 
