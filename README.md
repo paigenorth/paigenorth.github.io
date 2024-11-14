@@ -150,5 +150,5 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - PC Member of [MFPS 2023](https://coalg.org/calco-mfps-2023/mfps/)
 - PC Member of [HoTT/UF 2017](https://hott-uf.github.io/2017/), [2020](https://hott-uf.github.io/2020/), [2021](https://hott-uf.github.io/2021/), [2022](https://hott-uf.github.io/2022/), [2023](https://hott-uf.github.io/2023/)
 - Scientific organizer of [HoTT/UF 2022](https://hott-uf.github.io/2022/)
-- Organizer of [Midwest HoTT Seminar 2020](midwesthott) (cancelled)
+- Organizer of [Midwest HoTT Seminar 2020](https://paigenorth.github.io/midwesthott/) (cancelled)
 
