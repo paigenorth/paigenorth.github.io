@@ -55,7 +55,7 @@ with Maximilien Péroux, Lukas Mulder
 
 - **Measuring data types** (preprint, 2024). [[arXiv](http://arxiv.org/abs/2405.14678)]
 - **Coinductive control of inductive data types**, published in CALCO 2023. [[doi](https://doi.org/10.4230/LIPIcs.CALCO.2023.15)] [[arXiv](https://arxiv.org/abs/2303.16793)]
-- Slides from related talks: [TYPES](talks/types23.pdf), [CATMI](talks/catmi.pdf), [CHoCoLa](talks/chocola.pdf), [IRIF](talks/irif-july-23.pdf), [FICS](talks/fics.pdf), [CMCS](talks/cmcs.pdf), [CT](talks/ct.pdf), [CSCS](talks/cscs.pdf), [Utrecht](talks/utrecht.pdf)
+- Slides from related talks: [TYPES](talks/types23.pdf), [CATMI](talks/catmi23.pdf), [CHoCoLa](talks/chocola.pdf), [IRIF](talks/irif-july-23.pdf), [FICS](talks/fics.pdf), [CMCS](talks/cmcs.pdf), [CT](talks/ct.pdf), [CSCS](talks/cscs.pdf), [Utrecht](talks/utrecht.pdf)
 
 ### Bicategorical type theory
 with Benedikt Ahrens, Niels van der Weide
