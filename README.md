@@ -107,6 +107,8 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 # Teaching
 
 ### Regular courses
+- Spring 2025: Seminar on Logic and Foundations of Computing (Utrecht)
+- Spring 2025: Homotopy type theory (Mastermath)
 - Winter 2024: [Logica voor informatica](https://ics-websites.science.uu.nl/docs/vakken/b1li/index.html) (Utrecht)
 - Spring 2024: [Advanced functional programming](https://ics-websites.science.uu.nl/docs/vakken/afp/index.html) (Utrecht)
 - Spring 2024: [Homotopy type theory](https://github.com/Mastermath-HoTT/spring-2024) (Mastermath)
