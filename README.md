@@ -116,8 +116,10 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 ### Summer schools
 - Summer 2025: Oregon Programming Languages Summer School
 - Summer 2024: [UniMath School](https://unimath.github.io/minneapolis2024/)
+- Fall 2023: [Interactions of Proof Assistants and Mathematics](https://itp-school-2023.github.io) ([materials](https://github.com/paigenorth/itp-hott))
 - Summer 2023: [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer23/) ([materials](https://github.com/paigenorth/oplss))
 - Summer 2022: [Applied Category Theory Adjoint School](https://adjointschool.com/2022.html)
+- Summer 2022: [HoTTEST Summer School](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest_summer_school_2022.html)
 - Summer 2022: [UniMath School](https://unimath.github.io/cortona2022/)
 - Spring 2021: [Spring School on Theoretical Computer Science (EPIT)](http://epit2020cnrs.inria.fr) ([video](https://youtu.be/81MAHLyi8e0))
 - Summer 2020: [Applied Category Theory Adjoint School](https://adjointschool.com/2020.html)
