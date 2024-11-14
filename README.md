@@ -75,7 +75,7 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 
 - **The univalence principle** (2021), to appear in *Memoirs of the AMS*. [[arXiv](https://arxiv.org/abs/2102.06275)]
 - **A higher structure identity principle** (2020), published in LICS 2020. [[doi](https://doi.org/10.1145/3373718.3394755)][[arXiv](https://arxiv.org/abs/2004.06572)]
-- Slides from related talks: [HoTT 2019](https://paigenorth.github.io/talks/cmu.pdf),[HoTTEST Conference](https://paigenorth.github.io/talks/hottest.pdf), [LICS 2020](https://paigenorth.github.io/talks/lics.pdf), [UPenn Pizza Seminar](https://paigenorth.github.io/talks/pizza.pdf), [Algebra \| Coalgebra Seminar](https://paigenorth.github.io/talks/amsterdam.pdf), UPenn Logic and Computation Seminar [Part 1](https://paigenorth.github.io/talks/lcs-1.pdf), [Part 2](https://paigenorth.github.io/talks/lcs-2.pdf), [Part 3](https://paigenorth.github.io/talks/lcs-3.pdf), [Max Planck Institute Bonn](https://paigenorth.github.io/talks/bonn.pdf), [North American Annual Meeting of ASL](https://paigenorth.github.io/talks/asl.pdf)
+- Slides from related talks: [HoTT 2019](https://paigenorth.github.io/talks/cmu.pdf),[HoTTEST Conference](https://paigenorth.github.io/talks/hottest.pdf), [LICS 2020](https://paigenorth.github.io/talks/lics.pdf), [Penn Pizza Seminar](https://paigenorth.github.io/talks/pizza.pdf), [Algebra \| Coalgebra Seminar](https://paigenorth.github.io/talks/amsterdam.pdf), Penn Logic and Computation Seminar [Part 1](https://paigenorth.github.io/talks/lcs-1.pdf), [Part 2](https://paigenorth.github.io/talks/lcs-2.pdf), [Part 3](https://paigenorth.github.io/talks/lcs-3.pdf), [Max Planck Institute Bonn](https://paigenorth.github.io/talks/bonn.pdf), [North American Annual Meeting of ASL](https://paigenorth.github.io/talks/asl.pdf)
 - Videos from related talks: [HoTTEST Conference](https://youtu.be/aDsY2j1bff4), [LICS 2020](https://youtu.be/kX_ow5Jnf88)
 
 ### Directed type theory
@@ -105,7 +105,7 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - Spring 2023: Advanced Mathematics (University College Utrecht)
 - Autumn 2021: Calculus III -- linear algebra (Penn)
 - Spring 2021: Calculus IV -- applied partial differential equations (Penn)
-- Spring 2020: Foundations of Higher Mathematics (OSU) [[videos](https://www.youtube.com/playlist?list=PLbJ3ykEAQ2lSXw01ZlnI13iVD2z-euDri)]
+- Spring 2020: Foundations of Higher Mathematics (OSU) [(videos)(https://www.youtube.com/playlist?list=PLbJ3ykEAQ2lSXw01ZlnI13iVD2z-euDri)]
 - Autumn 2018: Linear Algebra (OSU)
 - Spring 2018: Introduction to Discrete Mathematics (OSU)
 - Autumn 2017: Linear Algebra (OSU)
