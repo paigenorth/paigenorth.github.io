@@ -1,8 +1,7 @@
 theme: jekyll-theme-minimal
 title: Paige Randall North
 logo: https://conf.researchr.org/getProfileImage/paigerandallnorth/ca0f2d88-d2fb-4e2f-af0c-7b4989ce3c05/small.jpg
-# description: [<br> p.r.north@uu.nl  <br> <br> Hans Freudenthalgebouw 6.05 <br> Budapestlaan 6 <br> 3584 CD Utrecht <br> <br> Buys Ballotgebouw 5.66 <br> Princetonplein 5
- <br> 3584 CC Utrecht]
+# description: [<br> p.r.north@uu.nl  <br> <br> Hans Freudenthalgebouw 6.05 <br> Budapestlaan 6 <br> 3584 CD Utrecht <br> <br> Buys Ballotgebouw 5.66 <br> Princetonplein 5 <br> 3584 CC Utrecht]
 github:
   is_project_page: false
 titles_from_headings:
