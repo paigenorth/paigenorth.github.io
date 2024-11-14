@@ -5,6 +5,7 @@ In my research, I apply tools of topology and category theory to problems in com
 # News
 
 - June/July 2025: I'm looking forward to returning to the Oregon Programming Languages Summer School to give a lecture series on Category Theory.
+- December 2024: I will be speaking at the [HoTTEST seminar](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html).
 - October 2024: Our paper Comparing Semantic Frameworks for Dependently-Sorted Algebraic Theories won the best paper award at APLAS 2024!
 - October 2024: Our paper Insights From Univalent Foundations: A Case Study Using Double Categories has been accepted at CSL 2025.
 
