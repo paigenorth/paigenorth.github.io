@@ -42,13 +42,13 @@ with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 
 - **Insights From Univalent Foundations: A Case Study Using Double Categories**, to appear in CSL 2025. [[arXiv](https://arxiv.org/abs/2402.05265)]
 - **Univalent Double Categories**, published in CPP 2024. [[doi](https://doi.org/10.1145/3636501.3636955)] [[arXiv](https://arxiv.org/abs/2310.09220)]
-- Slides from related talks: [Informal Formalization Seminar](talks/informal-formalization.pdf)
+- Slides from related talks: [Informal Formalization](talks/informal-formalization.pdf)
 
 ### Formalization of model category theory in HoTT/UF 
 with Dennis Hilhorst
 
 - **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi](https://doi.org/10.4230/LIPIcs.ITP.2024.20)]
-- Slides from related talks: [ITP 2024](talks/itp.pdf)
+- Slides from related talks: [ITP](talks/itp.pdf)
 
 ### Coalgebraic control of inductive datatypes
 with Maximilien Péroux, Lukas Mulder
@@ -60,13 +60,13 @@ with Maximilien Péroux, Lukas Mulder
 ### Bicategorical type theory
 with Benedikt Ahrens, Niels van der Weide
 
-- **Bicategorical type theory: semantics and syntax** (2023), published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)][[arXiv]()]
+- **Bicategorical type theory: semantics and syntax** (2023), published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)][[arXiv](https://arxiv.org/abs/2201.10662)]
 - **Semantics for two-dimensional type theory**, published in LICS 2022. [[doi](https://doi.org/10.1145/3531130.3533334)]
 
 ### Categorical dynamics
 with Rob Ghrist, Miguel Lopez, Hans Riess
 
-- Slides from related talks: [Socio-Math Miniworkshop](https://paigenorth.github.io/talks/bro.pdf)
+- Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf
 - Videos from related talks: [Topos Institute](https://www.youtube.com/live/ql_hrkv6g_g)
 
 ### Structure of the semantics of dependent types
