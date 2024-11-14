@@ -94,7 +94,7 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 
 - **Identity types and weak factorization systems in Cauchy complete categories**, (2019), published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129519000033)] [[arXiv](https://arxiv.org/abs/1901.03567)]
 - **Type theoretic weak factorization systems**, PhD thesis, 2017, University of Cambridge [[doi](https://doi.org/10.17863/CAM.11207)]
-- Slides from related talks: [Joint Mathematics Meetings 2018](https://paigenorth.github.io/talks/jmm.pdf), [Summer School on Higher Topos Theory and Univalent Foundations at the University of Leeds](https://paigenorth.github.io/talks/leeds.pdf)
+- Slides from related talks: [JMM](https://paigenorth.github.io/talks/jmm.pdf), [Leeds](https://paigenorth.github.io/talks/leeds.pdf)
 
 ### Other papers
 
