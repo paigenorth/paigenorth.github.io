@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Paige Randall North
+title: Paige R. North
 logo: https://conf.researchr.org/getProfileImage/paigerandallnorth/ca0f2d88-d2fb-4e2f-af0c-7b4989ce3c05/small.jpg
-
+github:
+  is_project_page: true
