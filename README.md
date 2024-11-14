@@ -54,7 +54,7 @@ with Maximilien Péroux, Lukas Mulder
 ### Bicategorical type theory
 with Benedikt Ahrens, Niels van der Weide
 
-- **Bicategorical type theory: semantics and syntax**, published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)][[arXiv]()]
+- **Bicategorical type theory: semantics and syntax** (2023), published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)][[arXiv]()]
 - **Semantics for two-dimensional type theory**, published in LICS 2022. [[doi](https://doi.org/10.1145/3531130.3533334)]
 
 ### Categorical dynamics
