@@ -42,6 +42,7 @@ with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 
 - **Insights From Univalent Foundations: A Case Study Using Double Categories**, to appear in CSL 2025. [[arXiv](https://arxiv.org/abs/2402.05265)]
 - **Univalent Double Categories**, published in CPP 2024. [[doi](https://doi.org/10.1145/3636501.3636955)] [[arXiv](https://arxiv.org/abs/2310.09220)]
+- Slides from related talks: [Informal Formalization Seminar](talks/informal-formalization.pdf)
 
 ### Formalization of model category theory in HoTT/UF 
 with Dennis Hilhorst
