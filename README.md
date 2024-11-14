@@ -47,7 +47,7 @@ with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 ### Formalization of model category theory in HoTT/UF 
 with Dennis Hilhorst
 
-- **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi]([https://doi.org/10.1145/3636501.3636955](https://doi.org/10.4230/LIPIcs.ITP.2024.20))]
+- **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi](https://doi.org/10.4230/LIPIcs.ITP.2024.20)]
 - Slides from related talks: [ITP 2024](talks/itp.pdf)
 
 ### Coalgebraic control of inductive datatypes
