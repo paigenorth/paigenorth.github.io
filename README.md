@@ -66,7 +66,7 @@ with Benedikt Ahrens, Niels van der Weide
 ### Categorical dynamics
 with Rob Ghrist, Miguel Lopez, Hans Riess
 
-- Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf
+- Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf)
 - Videos from related talks: [Topos Institute](https://www.youtube.com/live/ql_hrkv6g_g)
 
 ### Structure of the semantics of dependent types
