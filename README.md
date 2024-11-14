@@ -11,7 +11,7 @@ In my research, I apply tools of topology and category theory to problems in com
 
 # Group
 
-There are currently no PhD or postdoc vacancies.
+We have no PhD or postdoc vacancies currently.
 
 ### Current members
 
