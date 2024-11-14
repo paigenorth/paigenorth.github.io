@@ -135,3 +135,6 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - Summer 2020: [Applied Category Theory Adjoint School](https://adjointschool.com/2020.html)
 - Summer 2019: [Ross Program](https://rossprogram.org) ([course page](https://paigenorth.github.io/type-theory-course/))
 
+# Activities
+
+
