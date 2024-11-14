@@ -5,3 +5,5 @@ description: [<br> p.r.north@uu.nl  <br> <br> Hans Freudenthalgebouw 6.05 <br> B
  <br> 3584 CC Utrecht]
 github:
   is_project_page: false
+titles_from_headings:
+  enabled: false
