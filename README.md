@@ -33,7 +33,8 @@ In my research, I apply tools of topology and category theory to problems in com
  
 # Research projects
 
-### Formalization of double categories in HoTT/UF (joint with Nima Rasekh, Niels van der Weide, Benedikt Ahrens)
+### Formalization of double categories in HoTT/UF 
+jww Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 
 - **Insights From Univalent Foundations: A Case Study Using Double Categories**, to appear in CSL 2025. [[arXiv](https://arxiv.org/abs/2402.05265)]
 - **Univalent Double Categories**, published in CPP 2024. [[doi](https://doi.org/10.1145/3636501.3636955)] [[arXiv](https://arxiv.org/abs/2310.09220)]
