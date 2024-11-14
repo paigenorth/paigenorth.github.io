@@ -48,13 +48,14 @@ with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 with Dennis Hilhorst
 
 - **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi]([https://doi.org/10.1145/3636501.3636955](https://doi.org/10.4230/LIPIcs.ITP.2024.20))]
-- Slides from related talks: [ITP 2024]()
+- Slides from related talks: [ITP 2024](talks/itp.pdf)
 
 ### Coalgebraic control of inductive datatypes
 with Maximilien Péroux, Lukas Mulder
 
 - **Measuring data types** (preprint, 2024). [[arXiv](http://arxiv.org/abs/2405.14678)]
 - **Coinductive control of inductive data types**, published in CALCO 2023. [[doi](https://doi.org/10.4230/LIPIcs.CALCO.2023.15)] [[arXiv](https://arxiv.org/abs/2303.16793)]
+- Slides from related talks: [TYPES](talks/types23.pdf), [CATMI](talks/catmi.pdf), [CHoCoLa](talks/chocola.pdf), [IRIF](talks/irif-july-23.pdf), [FICS](talks/fics.pdf), [CMCS](talks/cmcs.pdf), [CT](talks/ct.pdf), [CSCS](talks/cscs.pdf), [Utrecht](talks/utrecht.pdf)
 
 ### Bicategorical type theory
 with Benedikt Ahrens, Niels van der Weide
