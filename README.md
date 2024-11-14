@@ -105,7 +105,7 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - Spring 2023: Advanced Mathematics (University College Utrecht)
 - Autumn 2021: Calculus III -- linear algebra (Penn)
 - Spring 2021: Calculus IV -- applied partial differential equations (Penn)
-- Spring 2020: Foundations of Higher Mathematics (OSU) [(videos)(https://www.youtube.com/playlist?list=PLbJ3ykEAQ2lSXw01ZlnI13iVD2z-euDri)]
+- Spring 2020: Foundations of Higher Mathematics (OSU) ([videos](https://www.youtube.com/playlist?list=PLbJ3ykEAQ2lSXw01ZlnI13iVD2z-euDri))
 - Autumn 2018: Linear Algebra (OSU)
 - Spring 2018: Introduction to Discrete Mathematics (OSU)
 - Autumn 2017: Linear Algebra (OSU)
