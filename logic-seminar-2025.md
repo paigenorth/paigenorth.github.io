@@ -36,6 +36,7 @@ After completion of the course, the student is able to:
 ### Evaluation matrix. 
 
 | | presentations	| homework |
+|-|---------------|----------|
 |understanding the material	| 20	| 50 |
 | effective communication of the material	| 20	| 0 |
 | formulating and correcting homework	| 0	| 10 |
