@@ -67,3 +67,12 @@ homework = combined output for homework assignments
 | | 	12. Algebras for an endofunctor	| |
 | 18 March	| 13. Equational categories of Σ-algebras | |	
 | |	14. S-sorted algebraic categories	| |
+| 25 March | | |
+| 1 April | | |
+| 8 April | | |
+| 15 April | No class| |
+| 22 April | (3rd day of Easter)| |
+| 29 April| | |
+
+
+
