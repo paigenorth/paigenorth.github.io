@@ -1,9 +1,10 @@
 # Algebraic theories.
 
-###Time.###
+###Time.
 Tuesdays 11.00-12.45.
 
-###Place.### BBG 005
+###Place.
+BBG 005
 
 **Description.** In category theory, various kinds of algebraic theories are used to encode and study algebraic objects. The most famous of these are Lawvere theories, which can be used to encode groups, rings, associative algebras, etc. With such techniques one can do universal algebra: in particular, they are a central tool in category theory used to identify nice properties that categories of such algebras have. These days, more complicated variants are important for their tight connection with functional programming languages.
 
