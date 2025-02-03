@@ -1,14 +1,16 @@
 # Algebraic theories.
 
-###Time.
+### Time.
 Tuesdays 11.00-12.45.
 
-###Place.
+### Place.
 BBG 005
 
-**Description.** In category theory, various kinds of algebraic theories are used to encode and study algebraic objects. The most famous of these are Lawvere theories, which can be used to encode groups, rings, associative algebras, etc. With such techniques one can do universal algebra: in particular, they are a central tool in category theory used to identify nice properties that categories of such algebras have. These days, more complicated variants are important for their tight connection with functional programming languages.
+### Description.
+In category theory, various kinds of algebraic theories are used to encode and study algebraic objects. The most famous of these are Lawvere theories, which can be used to encode groups, rings, associative algebras, etc. With such techniques one can do universal algebra: in particular, they are a central tool in category theory used to identify nice properties that categories of such algebras have. These days, more complicated variants are important for their tight connection with functional programming languages.
 
-**Prerequisites.** Mastermath Category theory or equivalent.
+###Prerequisites.
+Mastermath Category theory or equivalent.
 
 **Topics and literature.** The primary text we will be following is Algebraic theories (Adámek, Rosický, and Vitale). This will cover Lawvere theories and their many-sorted generalization. After reading (the core of) the primary text, we will cover more advanced topics. These will depend on the interests of the participants; the following is a preliminary list of possible topics and associated readings.
 - Sketches (Toposes, Triples and Theories by Barr and Wells)
