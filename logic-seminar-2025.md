@@ -6,6 +6,11 @@ Tuesdays 11.00-12.45.
 ### Place.
 BBG 005
 
+### Participants
+- Instructor: Paige Randall North
+- Participants:
+- Visitors: 
+
 ### Description.
 In category theory, various kinds of algebraic theories are used to encode and study algebraic objects. The most famous of these are Lawvere theories, which can be used to encode groups, rings, associative algebras, etc. With such techniques one can do universal algebra: in particular, they are a central tool in category theory used to identify nice properties that categories of such algebras have. These days, more complicated variants are important for their tight connection with functional programming languages.
 
@@ -46,3 +51,19 @@ homework = combined output for homework assignments
 
 ### Preliminary schedule.
 
+| Date | Subject | Speaker |
+|------|---------|---------|
+| 4 February	| 1. Algebraic theories and algebraic categories	| |
+| |	2. Sifted and filtered colimits |	|
+| 11 February	| 3. Reflexive coequalizers	| |
+| |	4. Algebraic categories and free completions	| |
+18 February	5. Properties of algebras	
+	6. A characterization of algebraic categories	
+25 February	7. From filtered to sifted	
+	8. Canonical theories	
+4 March	9. Algebraic functors	
+	10. Birkhoff’s Variety Theorem	
+11 March	11. One-sorted algebraic theories	
+	12. Algebras for an endofunctor	
+18 March	13. Equational categories of Σ-algebras	
+	14. S-sorted algebraic categories	
