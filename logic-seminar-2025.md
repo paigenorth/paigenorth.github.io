@@ -18,12 +18,12 @@ In category theory, various kinds of algebraic theories are used to encode and s
 Mastermath Category theory or equivalent.
 
 ### Topics and literature.
-The primary text we will be following is Algebraic theories (Adámek, Rosický, and Vitale). This will cover Lawvere theories and their many-sorted generalization. After reading (the core of) the primary text, we will cover more advanced topics. These will depend on the interests of the participants; the following is a preliminary list of possible topics and associated readings.
-- Sketches (Toposes, Triples and Theories by Barr and Wells)
-- Essentially algebraic theories and Gabriel-Ulmer duality (Lokal präsentierbare Kategorien by Gabriel and Ulmer)
-- Generalized algebraic theories (Generalised Algebraic Theories and Contextual Categories, Cartmell)
-- Lawvere theories in spaces (Algebraic Theories in Homotopy Theory, Badzioch; On homotopy varieties, Rosicky)
-- Clans and Gabriel-Ulmer duality (Duality for Clans: an Extension of Gabriel-Ulmer Duality, Frey)
+The primary text we will be following is *Algebraic theories* (Adámek, Rosický, and Vitale). This will cover Lawvere theories and their many-sorted generalization. After reading (the core of) the primary text, we will cover more advanced topics. These will depend on the interests of the participants; the following is a preliminary list of possible topics and associated readings.
+- Sketches (_Toposes, Triples and Theories_ by Barr and Wells)
+- Essentially algebraic theories and Gabriel-Ulmer duality (_Lokal präsentierbare Kategorien_ by Gabriel and Ulmer)
+- Generalized algebraic theories (_Generalised Algebraic Theories and Contextual Categories_, Cartmell)
+- Lawvere theories in spaces (_Algebraic Theories in Homotopy Theory_, Badzioch; _On homotopy varieties_, Rosicky)
+- Clans and Gabriel-Ulmer duality (_Duality for Clans: an Extension of Gabriel-Ulmer Duality_, Frey)
 
 ### Format and evaluation.
 The seminar is aimed at master students interested in Logic. There is a maximum number of (active) participants of 10. Participants are expected to give at least three presentations of 45 minutes each. Since each session consists of 2x45 minutes, students work in a "team" of 2, and work in collaboration. Moreover, each team devises 1 or 2 homework exercises, which are solved by the other students, graded by the team. Simultaneously with handing out the homework, the team hands a "model solution" to the teacher. Students are encouraged to give feedback to each other.
