@@ -66,7 +66,7 @@ with Maximilien Péroux, Lukas Mulder
 ### Bicategorical type theory
 with Benedikt Ahrens, Niels van der Weide
 
-- **Bicategorical type theory: semantics and syntax** (2023), published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)][[arXiv](https://arxiv.org/abs/2201.10662)]
+- **Bicategorical type theory: semantics and syntax** (2023), published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)] [[arXiv](https://arxiv.org/abs/2201.10662)]
 - **Semantics for two-dimensional type theory**, published in LICS 2022. [[doi](https://doi.org/10.1145/3531130.3533334)]
 
 ### Categorical dynamics
@@ -80,8 +80,8 @@ with Rob Ghrist, Miguel Lopez, Hans Riess
 with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke
 
 - **Comparing semantic frameworks of dependently-sorted algebraic theories**, published in APLAS 2024. [[doi](https://doi.org/10.1007/978-981-97-8943-6_1)]
-- **Algebraic presentations of dependent type theories** (preprint, 2022). [[arXiv](http://arxiv.org/abs/2111.09948)]
-- **B-systems and C-systems are equivalent** (2023), published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)]
+- **Algebraic presentations of dependent type theories** (2025), published in *Logical Methods in Computer Science*. [[doi](https://doi.org/10.46298/lmcs-21(1:14)2025)] [[arXiv](http://arxiv.org/abs/2111.09948)]
+- **B-systems and C-systems are equivalent** (2023), published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)] 
 
 ### The univalence principle
 with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
