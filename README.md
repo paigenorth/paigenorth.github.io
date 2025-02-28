@@ -72,7 +72,7 @@ with Benedikt Ahrens, Niels van der Weide
 ### Categorical dynamics
 with Rob Ghrist, Miguel Lopez, Hans Riess
 
-- *Categorical Diffusion of Weighted Lattices* [[arXiv](https://arxiv.org/abs/2501.03890)]
+- **Categorical Diffusion of Weighted Lattices** (preprint, 2025) [[arXiv](https://arxiv.org/abs/2501.03890)]
 - Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf), [USD](talks/fuzzy-type-theory.pdf)
 - Videos from related talks: [Topos Institute](https://www.youtube.com/live/ql_hrkv6g_g)
 
