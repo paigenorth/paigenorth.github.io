@@ -35,6 +35,7 @@ We currently have no PhD or postdoc vacancies.
 - Dennis Hilhorst, master's student, 2023
   - Currently a software engineer at High Voltage Engineering
   - Thesis: [A Formalization of the Algebraic Small Object Argument in UniMath](https://studenttheses.uu.nl/handle/20.500.12932/45658?show=full)
+- Sylvain Gay, research intern, 2023
 - Erin McCloskey, master's student, 2020-2
   - Thesis: [Relative Weak Factorization Systems](https://eprints.illc.uva.nl/id/eprint/2220/)
  
