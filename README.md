@@ -40,7 +40,7 @@ We currently have no PhD or postdoc vacancies.
 # Research projects
 
 ### Enriched type theory
-- **The enriched Curry-Howard-Lambek correspondence**, preprint [[pdf](enriched-curry-howard-lambek.pdf)]
+- **The enriched Curry-Howard-Lambek correspondence** (preprint, 2025) [[pdf](enriched-curry-howard-lambek.pdf)]
 - Slides from related talks: [[Ottawa](ottawa.pdf)]
 
 ### Formalization of double categories in HoTT/UF 
@@ -72,6 +72,7 @@ with Benedikt Ahrens, Niels van der Weide
 ### Categorical dynamics
 with Rob Ghrist, Miguel Lopez, Hans Riess
 
+- *Categorical Diffusion of Weighted Lattices* [[arXiv](https://arxiv.org/abs/2501.03890)]
 - Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf), [USD](talks/fuzzy-type-theory.pdf)
 - Videos from related talks: [Topos Institute](https://www.youtube.com/live/ql_hrkv6g_g)
 
