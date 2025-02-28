@@ -41,7 +41,7 @@ We currently have no PhD or postdoc vacancies.
 
 ### Enriched type theory
 - **The enriched Curry-Howard-Lambek correspondence** (preprint, 2025) [[pdf](enriched-curry-howard-lambek.pdf)]
-- Slides from related talks: [[Ottawa](ottawa.pdf)]
+- Slides from related talks: [Ottawa](ottawa.pdf)
 
 ### Formalization of double categories in HoTT/UF 
 with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
@@ -86,7 +86,7 @@ with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke
 ### The univalence principle
 with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 
-- **The univalence principle** (2021), to appear in *Memoirs of the AMS*. [[arXiv](https://arxiv.org/abs/2102.06275)]
+- **The univalence principle** (2025), published in *Memoirs of the AMS*. [[doi](https://doi.org/10.1090/memo/1541)] [[arXiv](https://arxiv.org/abs/2102.06275)]
 - **A higher structure identity principle** (2020), published in LICS 2020. [[doi](https://doi.org/10.1145/3373718.3394755)][[arXiv](https://arxiv.org/abs/2004.06572)]
 - Slides from related talks: [HoTT](talks/cmu.pdf), [HoTTEST](talks/hottest.pdf), [LICS](talks/lics.pdf), [Penn Pizza](talks/pizza.pdf), [Algebra \| Coalgebra](talks/amsterdam.pdf), Penn Logic and Computation [Part 1](talks/lcs-1.pdf), [Part 2](talks/lcs-2.pdf), [Part 3](talks/lcs-3.pdf), [MPI](talks/bonn.pdf), [ASL North American Annual Meeting](talks/asl.pdf), [Utrecht Math](talks/utrecht-7-feb.pdf), [Cornell Topology Festival](talks/cornell-6-may.pdf), [(∞,n)-Categories and their applications](talks/oon.pdf), [Utrecht Philosophy](talks/philosophy.pdf)
 - Videos from related talks: [HoTTEST](https://youtu.be/aDsY2j1bff4), [LICS](https://youtu.be/kX_ow5Jnf88)
