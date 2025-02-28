@@ -19,9 +19,11 @@ We currently have no PhD or postdoc vacancies.
 
 - [Pim Otte](https://pim.otte.dev), PhD candidate, 2024-
 - [Fernando Chu Rivera](https://fernandochu.github.io), PhD candidate, 2024-
-- [Léonard Guetta](https://leoguetta.github.io), postdoc, 2023-
 
 ### Past members 
+- Stavros Topkas, master's student, 2023-5
+  - Thesis: [Categorical Quantum Mechanics - constructing the category of homogenous cones](https://studenttheses.uu.nl/handle/20.500.12932/48569?show=full)
+- [Léonard Guetta](https://leoguetta.github.io), postdoc, 2023-4
 - Alkis Ioannidis, master's student, 2023-4
   - Currently a CS PhD student at Tallinn University of Technology
   - Thesis: [The quasicategory of frames from a Type Theoretic Model Topos is an Elementary Infinity Topos](https://studenttheses.uu.nl/handle/20.500.12932/47751?show=full)
