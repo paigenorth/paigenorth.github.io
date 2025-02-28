@@ -4,10 +4,12 @@ In my research, I apply tools of topology and category theory to problems in com
 
 # News
 
+- January 2026: I will serve as a PC member for [LICS 2026](https://www.floc26.org).
+- July/August 2025: I'm looking forward to teaching a course on *Interactive theorem provers* at La Escuela de Ciencias Informáticas in Buenos Aires.
 - June/July 2025: I'm looking forward to returning to the Oregon Programming Languages Summer School to give a lecture series on Category Theory.
-- December 2024: I will be speaking at the [HoTTEST seminar](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html).
-- October 2024: Our paper *Comparing Semantic Frameworks for Dependently-Sorted Algebraic Theories* won the best paper award at APLAS 2024!
-- October 2024: Our paper *Insights From Univalent Foundations: A Case Study Using Double Categories* has been accepted at CSL 2025.
+- July 2025: I will serve as a PC member for [POPL 2026](https://conf.researchr.org/home/POPL-2026).
+- January 2025: Our AMS Memoir has finally appeared after many years in the queue! [The Univalence Principle](https://doi.org/10.1090/memo/1541)
+- January 2025: We have posted a new preprint on the arXiv: [Categorical Diffusion of Weighted Lattices](https://arxiv.org/abs/2501.03890)
 
 # Group
 
