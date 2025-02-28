@@ -80,7 +80,7 @@ with Rob Ghrist, Miguel Lopez, Hans Riess
 with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke
 
 - **Algebraic presentations of dependent type theories** (2025), published in *Logical Methods in Computer Science*. [[doi](https://doi.org/10.46298/lmcs-21(1:14)2025)] [[arXiv](http://arxiv.org/abs/2111.09948)]
-- **Comparing semantic frameworks of dependently-sorted algebraic theories**, published in APLAS 2024. [[doi](https://doi.org/10.1007/978-981-97-8943-6_1)] [[arXiv(https://arxiv.org/abs/2412.19946)]
+- **Comparing semantic frameworks of dependently-sorted algebraic theories**, published in APLAS 2024. [[doi](https://doi.org/10.1007/978-981-97-8943-6_1)] [[arXiv](https://arxiv.org/abs/2412.19946)]
 - **B-systems and C-systems are equivalent** (2023), published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)] 
 
 ### The univalence principle
