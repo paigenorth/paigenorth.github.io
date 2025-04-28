@@ -44,10 +44,6 @@ We currently have no PhD or postdoc vacancies.
  
 # Research projects
 
-### Enriched type theory
-- **The enriched Curry-Howard-Lambek correspondence** (preprint, 2025) [[pdf](enriched-curry-howard-lambek.pdf)]
-- Slides from related talks: [Ottawa](ottawa.pdf)
-
 ### Formalization of double categories in HoTT/UF 
 with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 
