@@ -4,54 +4,51 @@ In my research, I apply tools of topology and category theory to problems in com
 
 # News
 
+- March 2026: I will serve as a PC member for [MFPS 2026](https://ul-fmf.github.io/mfps-sstt-2026/mfps/).
 - January 2026: I will serve as a PC member for [LICS 2026](https://www.floc26.org).
-- July/August 2025: I'm looking forward to teaching a course on *Interactive theorem provers* at La Escuela de Ciencias Informáticas in Buenos Aires.
-- June/July 2025: I'm looking forward to returning to the [Oregon Programming Languages Summer School](https://www.cs.uoregon.edu/research/summerschool/summer25/schedule.php) to give a lecture series on Category Theory.
-- July 2025: I will serve as a PC member for [POPL 2026](https://conf.researchr.org/home/POPL-2026).
-- January 2025: Our AMS Memoir has finally appeared after many years in the queue! [The Univalence Principle](https://doi.org/10.1090/memo/1541)
-- January 2025: We have posted a new preprint on the arXiv: [Categorical Diffusion of Weighted Lattices](https://arxiv.org/abs/2501.03890)
+- January 2026: Our paper [From Semantics to Syntax: A Type Theory for Comprehension Categories](https://arxiv.org/abs/2503.10868) will appear at POPL 2026.
+- October 2025: I've been awarded an NWO Vidi grant. There will be an opening for a PhD position starting Fall 2026, and a postdoc position in the following years.
 
 # Group
-
-We currently have no PhD or postdoc vacancies.
 
 ### Current members
 
 - [Pim Otte](https://pim.otte.dev), PhD candidate, 2024-
 - [Fernando Chu Rivera](https://fernandochu.github.io), PhD candidate, 2024-
+- [Léonard Guetta](https://leoguetta.github.io), postdoc, 2023-
 
-### Past members 
-- Stavros Topkas, master's student, 2023-5
+### Past members
+- Alex van Tilburg, master's student, 2025
+  - Thesis: [Waterproof for Bewijzen in de Wiskunde](https://studenttheses.uu.nl/handle/20.500.12932/49918)
+- Rashiqa Dawood, master's student, 2025
+  - Thesis: [Univalence Principle for Tamsamani 2-categories and 2-nerves](https://studenttheses.uu.nl/handle/20.500.12932/50707)
+- Stavros Topkas, master's student, 2025
   - Thesis: [Categorical Quantum Mechanics - constructing the category of homogenous cones](https://studenttheses.uu.nl/handle/20.500.12932/48569?show=full)
-- [Léonard Guetta](https://leoguetta.github.io), postdoc, 2023-4
-- Alkis Ioannidis, master's student, 2023-4
-  - Currently a CS PhD student at Tallinn University of Technology
+- Alkis Ioannidis, master's student, 2024
   - Thesis: [The quasicategory of frames from a Type Theoretic Model Topos is an Elementary Infinity Topos](https://studenttheses.uu.nl/handle/20.500.12932/47751?show=full)
-- [Lukas Mulder](http://lukasmulder.nl), master's student, 2023-4
-  - Currently a CS PhD student at Radboud Universiteit
+- [Lukas Mulder](http://lukasmulder.nl), master's student, 2024
   - Thesis: [The Functorial Nature of Enriched Data Types](https://studenttheses.uu.nl/handle/20.500.12932/47250)
-- Éléonore Mangel, research intern, 2023-4
-  - Currently a CS PhD student at Institut de recherche en informatique fondamental
+- Éléonore Mangel, research intern, 2024
 - Dennis Hilhorst, master's student, 2023
-  - Currently a software engineer at High Voltage Engineering
   - Thesis: [A Formalization of the Algebraic Small Object Argument in UniMath](https://studenttheses.uu.nl/handle/20.500.12932/45658?show=full)
 - Sylvain Gay, research intern, 2023
-- Erin McCloskey, master's student, 2020-2
+- Erin McCloskey, master's student, 2022
   - Thesis: [Relative Weak Factorization Systems](https://eprints.illc.uva.nl/id/eprint/2220/)
- 
+
 ### Funding
+- From 2026-2030, we are funded by an NWO Vidi project.
 - From 2021-4, we were funded by the AFOSR.
- 
+
 # Research projects
 
-### Formalization of double categories in HoTT/UF 
+### Formalization of double categories in HoTT/UF
 with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
 
 - **Insights From Univalent Foundations: A Case Study Using Double Categories**, CSL 2025. [[doi](https://doi.org/10.4230/LIPIcs.CSL.2025.45)] [[arXiv](https://arxiv.org/abs/2402.05265)]
 - **Univalent Double Categories**, published in CPP 2024. [[doi](https://doi.org/10.1145/3636501.3636955)] [[arXiv](https://arxiv.org/abs/2310.09220)]
 - Slides from related talks: [Informal Formalization](talks/informal-formalization.pdf)
 
-### Formalization of model category theory in HoTT/UF 
+### Formalization of model category theory in HoTT/UF
 with Dennis Hilhorst
 
 - **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi](https://doi.org/10.4230/LIPIcs.ITP.2024.20)]
@@ -61,13 +58,14 @@ with Dennis Hilhorst
 with Maximilien Péroux, Lukas Mulder
 
 - **Measuring data types** (preprint, 2024). [[arXiv](http://arxiv.org/abs/2405.14678)]
+- **Functoriality of Enriched Data Types**, published in MFPS 2025. [[doi](https://doi.org/10.46298/entics.16583)] [[arXiv](https://arxiv.org/abs/2505.06059)]
 - **Coinductive control of inductive data types**, published in CALCO 2023. [[doi](https://doi.org/10.4230/LIPIcs.CALCO.2023.15)] [[arXiv](https://arxiv.org/abs/2303.16793)]
 - Slides from related talks: [TYPES](talks/types23.pdf), [CATMI](talks/catmi23.pdf), [CHoCoLa](talks/chocola.pdf), [IRIF](talks/irif-july-23.pdf), [FICS](talks/fics.pdf), [CMCS](talks/cmcs.pdf), [CT](talks/ct.pdf), [CSCS](talks/cscs.pdf), [Utrecht](talks/utrecht.pdf), [HoTTEST](talks/hottest2024.pdf)
 - Videos from related talks: [HoTTEST](https://youtu.be/8nGTQZy37Q0?si=Hg6OjLprMUuF6ORV)
 
-### Bicategorical type theory
-with Benedikt Ahrens, Niels van der Weide
-
+### Categorical structures as type theories
+with Benedikt Ahrens, Niyousha Najmaei, Niels van der Weide
+- **From Semantics to Syntax: A Type Theory for Comprehension Categories** (2026), published in POPL 2026: 2409-2438 (2026) [[doi](https://doi.org/10.1145/3776725)] [[arXiv](https://arxiv.org/abs/2503.10868)]
 - **Bicategorical type theory: semantics and syntax** (2023), published in *Mathematical Structures in Computer Science*. [[doi](https://doi.org/10.1017/S0960129523000312)] [[arXiv](https://arxiv.org/abs/2201.10662)]
 - **Semantics for two-dimensional type theory**, published in LICS 2022. [[doi](https://doi.org/10.1145/3531130.3533334)]
 
@@ -82,8 +80,8 @@ with Rob Ghrist, Miguel Lopez, Hans Riess
 with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke
 
 - **Algebraic presentations of dependent type theories** (2025), published in *Logical Methods in Computer Science*. [[doi](https://doi.org/10.46298/lmcs-21(1:14)2025)] [[arXiv](http://arxiv.org/abs/2111.09948)]
-- **Comparing semantic frameworks of dependently-sorted algebraic theories**, published in APLAS 2024. [[doi](https://doi.org/10.1007/978-981-97-8943-6_1)] [[arXiv](https://arxiv.org/abs/2412.19946)]
-- **B-systems and C-systems are equivalent** (2023), published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)] 
+- **Comparing semantic frameworks of dependently-sorted algebraic theories**, published in APLAS 2024. (Best paper award) [[doi](https://doi.org/10.1007/978-981-97-8943-6_1)] [[arXiv](https://arxiv.org/abs/2412.19946)]
+- **B-systems and C-systems are equivalent** (2023), published in the *Journal of Symbolic Logic*. [[doi](https://doi.org/10.1017/jsl.2023.41)]
 
 ### The univalence principle
 with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
@@ -114,11 +112,14 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 # Teaching
 
 ### Regular courses
+- Spring 2026: Software testing and verification (Utrecht)
+- Spring 2026: Homotopy type theory (Mastermath)
 - Spring 2025: [Seminar on Logic and Foundations of Computing](teaching/logic-seminar-2025.html) (Utrecht)
 - Spring 2025: Homotopy type theory (Mastermath)
 - Winter 2024: [Logica voor informatica](https://ics-websites.science.uu.nl/docs/vakken/b1li/index.html) (Utrecht)
 - Spring 2024: [Advanced functional programming](https://ics-websites.science.uu.nl/docs/vakken/afp/index.html) (Utrecht)
 - Spring 2024: [Homotopy type theory](https://github.com/Mastermath-HoTT/spring-2024) (Mastermath)
+- Spring 2023: Softwareproject informatica (Utrecht)
 - Spring 2023: Advanced Mathematics (University College Utrecht)
 - Autumn 2021: Calculus III -- linear algebra (Penn)
 - Spring 2021: Calculus IV -- applied partial differential equations (Penn)
@@ -131,6 +132,8 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - Michaelmas 2012: Number Theory (Cambridge)
 
 ### Summer schools
+- Summer 2025: Utrecht Summer School on Geometry
+- Summer 2025: Escuela de Ciencias Informáticas
 - Summer 2025: Oregon Programming Languages Summer School
 - Summer 2024: [UniMath School](https://unimath.github.io/minneapolis2024/)
 - Fall 2023: [Interactions of Proof Assistants and Mathematics](https://itp-school-2023.github.io) ([materials](https://github.com/paigenorth/itp-hott))
@@ -145,10 +148,16 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 # Activities
 
 ### Current
-- Steering committee chair of [TYPES](https://sites.google.com/view/thetypesconferences)
 - Organizer of [DutchCATS](https://dutchcats.github.io)
+- Organizer of the [Formalizing Higher Categories](https://www.mittag-leffler.se/activities/formalizing-higher-categories/) workshop at the Mittag-Leffler Institute
+- Inaugural member of the [Homotopical Algebra and Higher Category Theory from Foundations to Applications](https://sites.google.com/view/homalghigh/home?authuser=0) EMS TAG (European Mathematical Society Topical Activity Group)
 
 ### Past
+- PC Member of [MFPS 2023](https://coalg.org/calco-mfps-2023/mfps/), [2026](https://ul-fmf.github.io/mfps-sstt-2026/mfps/)
+- PC Member of [LICS 2026](https://lics.siglog.org/lics26/)
+- PC Member of [TYPES 2026](https://types2026.cse.chalmers.se/index.html)
+- PC Member of [POPL 2026](https://conf.researchr.org/home/POPL-2026)
+- Steering committee chair of [TYPES](https://sites.google.com/view/thetypesconferences) (2023-5)
 - PC Member of [ACT 2022](https://msp.cis.strath.ac.uk/act2022/), [2023](https://act2023.github.io), [2024](https://oxford24.github.io)
 - PC Member of [STACS 2024](https://stacs2024.limos.fr/index.html)
 - PC Member of [CPP 2024](https://popl24.sigplan.org/home/CPP-2024)
@@ -158,4 +167,3 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - PC Member of [HoTT/UF 2017](https://hott-uf.github.io/2017/), [2020](https://hott-uf.github.io/2020/), [2021](https://hott-uf.github.io/2021/), [2022](https://hott-uf.github.io/2022/), [2023](https://hott-uf.github.io/2023/)
 - Scientific organizer of [HoTT/UF 2022](https://hott-uf.github.io/2022/)
 - Organizer of [Midwest HoTT Seminar 2020](https://paigenorth.github.io/midwesthott/) (cancelled)
-
