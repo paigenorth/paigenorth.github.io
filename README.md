@@ -11,9 +11,6 @@ In my research, I apply tools of topology and category theory to problems in com
 
 # Group
 
-<details>
-  <summary>Click to expand</summary>
-
 ### Funding
 - From 2026-2030, we are funded by an NWO Vidi project.
 - From 2021-4, we were funded by the AFOSR.
@@ -45,12 +42,7 @@ In my research, I apply tools of topology and category theory to problems in com
 - Erin McCloskey, master's student, 2022
   - Thesis: [Relative Weak Factorization Systems](https://eprints.illc.uva.nl/id/eprint/2220/)
 
-</details><br>
-
 # Research projects
-
-<details>
-  <summary>Click to expand</summary>
 
 ### Coalgebraic control of inductive datatypes
 with Maximilien Péroux, Lukas Mulder
@@ -119,14 +111,7 @@ with Dennis Hilhorst
 - **A Hurewicz model structure for directed topology** (2021), joint with S. Krishnan, published in *Theory and Applications of Categories*. [[tac](http://www.tac.mta.ca/tac/volumes/37/20/37-20abs.html)] [[arXiv](https://arxiv.org/abs/1911.02204)]
 - **Univalent foundations and the equivalence principle** (2019), joint with with B. Ahrens, published in *Reflections on the Foundations of Mathematics, Synthese*. [[doi](https://doi.org/10.1007/978-3-030-15655-8_6)] [[pdf](https://paigenorth.github.io/ep.pdf)]
 
-
-</details><br>
-
-
 # Teaching
-
-<details>
-  <summary>Click to expand</summary>
 
 ### Regular courses
 - Spring 2026: Software testing and verification (Utrecht)
@@ -162,13 +147,7 @@ with Dennis Hilhorst
 - Summer 2020: [Applied Category Theory Adjoint School](https://adjointschool.com/2020.html)
 - Summer 2019: [Ross Program](https://rossprogram.org) ([course page](https://paigenorth.github.io/type-theory-course/))
 
-</details><br>
-
 # Activities
-
-<details>
-  <summary>Click to expand</summary>
-  <br>
 
 - Organizer of [DutchCATS](https://dutchcats.github.io)
 - Organizer of the [Formalizing Higher Categories](https://www.mittag-leffler.se/activities/formalizing-higher-categories/) workshop at the Mittag-Leffler Institute
@@ -187,5 +166,3 @@ with Dennis Hilhorst
 - PC Member of [MFPS 2023](https://coalg.org/calco-mfps-2023/mfps/)
 - Scientific organizer of [HoTT/UF 2022](https://hott-uf.github.io/2022/)
 - Organizer of [Midwest HoTT Seminar 2020](https://paigenorth.github.io/midwesthott/) (cancelled)
-
-</details>
