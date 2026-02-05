@@ -45,7 +45,7 @@ In my research, I apply tools of topology and category theory to problems in com
 - Erin McCloskey, master's student, 2022
   - Thesis: [Relative Weak Factorization Systems](https://eprints.illc.uva.nl/id/eprint/2220/)
 
-</details>
+</details><br>
 
 # Research projects
 
@@ -120,7 +120,7 @@ with Dennis Hilhorst
 - **Univalent foundations and the equivalence principle** (2019), joint with with B. Ahrens, published in *Reflections on the Foundations of Mathematics, Synthese*. [[doi](https://doi.org/10.1007/978-3-030-15655-8_6)] [[pdf](https://paigenorth.github.io/ep.pdf)]
 
 
-</details>
+</details><br>
 
 
 # Teaching
@@ -162,7 +162,7 @@ with Dennis Hilhorst
 - Summer 2020: [Applied Category Theory Adjoint School](https://adjointschool.com/2020.html)
 - Summer 2019: [Ross Program](https://rossprogram.org) ([course page](https://paigenorth.github.io/type-theory-course/))
 
-</details>
+</details><br>
 
 # Activities
 
