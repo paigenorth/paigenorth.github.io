@@ -151,10 +151,9 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - Organizer of [DutchCATS](https://dutchcats.github.io)
 - Organizer of the [Formalizing Higher Categories](https://www.mittag-leffler.se/activities/formalizing-higher-categories/) workshop at the Mittag-Leffler Institute
 - Inaugural member of the [Homotopical Algebra and Higher Category Theory from Foundations to Applications](https://sites.google.com/view/homalghigh/home?authuser=0) EMS TAG (European Mathematical Society Topical Activity Group)
-
-### Past
 - PC Member of [MFPS 2023](https://coalg.org/calco-mfps-2023/mfps/), [2026](https://ul-fmf.github.io/mfps-sstt-2026/mfps/)
 - PC Member of [LICS 2026](https://lics.siglog.org/lics26/)
+- PC Member of [HoTT/UF 2017](https://hott-uf.github.io/2017/), [2020](https://hott-uf.github.io/2020/), [2021](https://hott-uf.github.io/2021/), [2022](https://hott-uf.github.io/2022/), [2023](https://hott-uf.github.io/2023/), [2026](https://hott-uf.github.io/2026/)
 - PC Member of [TYPES 2026](https://types2026.cse.chalmers.se/index.html)
 - PC Member of [POPL 2026](https://conf.researchr.org/home/POPL-2026)
 - Steering committee chair of [TYPES](https://sites.google.com/view/thetypesconferences) (2023-5)
@@ -164,6 +163,5 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - PC Member of [SYCO 11](https://www.cl.cam.ac.uk/events/syco/11/), [12](https://www.cl.cam.ac.uk/events/syco/12/)
 - Organizer of [WG6 2023 Meeting](https://europroofnet.github.io/wg6-vienna/)
 - PC Member of [MFPS 2023](https://coalg.org/calco-mfps-2023/mfps/)
-- PC Member of [HoTT/UF 2017](https://hott-uf.github.io/2017/), [2020](https://hott-uf.github.io/2020/), [2021](https://hott-uf.github.io/2021/), [2022](https://hott-uf.github.io/2022/), [2023](https://hott-uf.github.io/2023/)
 - Scientific organizer of [HoTT/UF 2022](https://hott-uf.github.io/2022/)
 - Organizer of [Midwest HoTT Seminar 2020](https://paigenorth.github.io/midwesthott/) (cancelled)
