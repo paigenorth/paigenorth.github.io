@@ -11,6 +11,16 @@ In my research, I apply tools of topology and category theory to problems in com
 
 # Group
 
+<details>
+  <summary>Click to expand</summary>
+
+### Funding
+- From 2026-2030, we are funded by an NWO Vidi project.
+- From 2021-4, we were funded by the AFOSR.
+
+
+
+
 ### Current members
 
 - [Pim Otte](https://pim.otte.dev), PhD candidate, 2024-
@@ -35,29 +45,17 @@ In my research, I apply tools of topology and category theory to problems in com
 - Erin McCloskey, master's student, 2022
   - Thesis: [Relative Weak Factorization Systems](https://eprints.illc.uva.nl/id/eprint/2220/)
 
-### Funding
-- From 2026-2030, we are funded by an NWO Vidi project.
-- From 2021-4, we were funded by the AFOSR.
+</details>
 
 # Research projects
 
-### Formalization of double categories in HoTT/UF
-with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
-
-- **Insights From Univalent Foundations: A Case Study Using Double Categories**, CSL 2025. [[doi](https://doi.org/10.4230/LIPIcs.CSL.2025.45)] [[arXiv](https://arxiv.org/abs/2402.05265)]
-- **Univalent Double Categories**, published in CPP 2024. [[doi](https://doi.org/10.1145/3636501.3636955)] [[arXiv](https://arxiv.org/abs/2310.09220)]
-- Slides from related talks: [Informal Formalization](talks/informal-formalization.pdf)
-
-### Formalization of model category theory in HoTT/UF
-with Dennis Hilhorst
-
-- **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi](https://doi.org/10.4230/LIPIcs.ITP.2024.20)]
-- Slides from related talks: [ITP](talks/itp.pdf)
+<details>
+  <summary>Click to expand</summary>
 
 ### Coalgebraic control of inductive datatypes
 with Maximilien Péroux, Lukas Mulder
 
-- **Measuring data types** (preprint, 2024). [[arXiv](http://arxiv.org/abs/2405.14678)]
+- **Measuring data types** (2026), to appear in the postproceedings of CATMI (Category Theory at Work in Computational Mathematics and Theoretical Informatics) 2023 [[arXiv](http://arxiv.org/abs/2405.14678)]
 - **Functoriality of Enriched Data Types**, published in MFPS 2025. [[doi](https://doi.org/10.46298/entics.16583)] [[arXiv](https://arxiv.org/abs/2505.06059)]
 - **Coinductive control of inductive data types**, published in CALCO 2023. [[doi](https://doi.org/10.4230/LIPIcs.CALCO.2023.15)] [[arXiv](https://arxiv.org/abs/2303.16793)]
 - Slides from related talks: [TYPES](talks/types23.pdf), [CATMI](talks/catmi23.pdf), [CHoCoLa](talks/chocola.pdf), [IRIF](talks/irif-july-23.pdf), [FICS](talks/fics.pdf), [CMCS](talks/cmcs.pdf), [CT](talks/ct.pdf), [CSCS](talks/cscs.pdf), [Utrecht](talks/utrecht.pdf), [HoTTEST](talks/hottest2024.pdf)
@@ -76,6 +74,13 @@ with Rob Ghrist, Miguel Lopez, Hans Riess
 - Slides from related talks: [Socio-Math](talks/bro.pdf), [IRIF](talks/irif-dec-23.pdf), [Topos Institute](talks/topos.pdf), [USD](talks/fuzzy-type-theory.pdf)
 - Videos from related talks: [Topos Institute](https://www.youtube.com/live/ql_hrkv6g_g)
 
+### Formalization of double categories in HoTT/UF
+with Nima Rasekh, Niels van der Weide, Benedikt Ahrens
+
+- **Insights From Univalent Foundations: A Case Study Using Double Categories**, CSL 2025. [[doi](https://doi.org/10.4230/LIPIcs.CSL.2025.45)] [[arXiv](https://arxiv.org/abs/2402.05265)]
+- **Univalent Double Categories**, published in CPP 2024. [[doi](https://doi.org/10.1145/3636501.3636955)] [[arXiv](https://arxiv.org/abs/2310.09220)]
+- Slides from related talks: [Informal Formalization](talks/informal-formalization.pdf)
+
 ### Structure of the semantics of dependent types
 with Benedikt Ahrens, Jacopo Emmenegger, Peter Lefanu Lumsdaine, Egbert Rijke
 
@@ -90,6 +95,12 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - **A higher structure identity principle** (2020), published in LICS 2020. [[doi](https://doi.org/10.1145/3373718.3394755)] [[arXiv](https://arxiv.org/abs/2004.06572)]
 - Slides from related talks: [HoTT](talks/cmu.pdf), [HoTTEST](talks/hottest.pdf), [LICS](talks/lics.pdf), [Penn Pizza](talks/pizza.pdf), [Algebra \| Coalgebra](talks/amsterdam.pdf), Penn Logic and Computation [Part 1](talks/lcs-1.pdf), [Part 2](talks/lcs-2.pdf), [Part 3](talks/lcs-3.pdf), [MPI](talks/bonn.pdf), [ASL North American Annual Meeting](talks/asl.pdf), [Utrecht Math](talks/utrecht-7-feb.pdf), [Cornell Topology Festival](talks/cornell-6-may.pdf), [(∞,n)-Categories and their applications](talks/oon.pdf), [Utrecht Philosophy](talks/philosophy.pdf)
 - Videos from related talks: [HoTTEST](https://youtu.be/aDsY2j1bff4), [LICS](https://youtu.be/kX_ow5Jnf88)
+
+### Formalization of model category theory in HoTT/UF
+with Dennis Hilhorst
+
+- **Formalizing the algebraic small object argument in UniMath**, published in ITP 2024. [[doi](https://doi.org/10.4230/LIPIcs.ITP.2024.20)]
+- Slides from related talks: [ITP](talks/itp.pdf)
 
 ### Directed type theory
 
@@ -109,7 +120,13 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - **Univalent foundations and the equivalence principle** (2019), joint with with B. Ahrens, published in *Reflections on the Foundations of Mathematics, Synthese*. [[doi](https://doi.org/10.1007/978-3-030-15655-8_6)] [[pdf](https://paigenorth.github.io/ep.pdf)]
 
 
+</details>
+
+
 # Teaching
+
+<details>
+  <summary>Click to expand</summary>
 
 ### Regular courses
 - Spring 2026: Software testing and verification (Utrecht)
@@ -145,9 +162,14 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - Summer 2020: [Applied Category Theory Adjoint School](https://adjointschool.com/2020.html)
 - Summer 2019: [Ross Program](https://rossprogram.org) ([course page](https://paigenorth.github.io/type-theory-course/))
 
+</details>
+
 # Activities
 
-### Current
+<details>
+  <summary>Click to expand</summary>
+  <br>
+
 - Organizer of [DutchCATS](https://dutchcats.github.io)
 - Organizer of the [Formalizing Higher Categories](https://www.mittag-leffler.se/activities/formalizing-higher-categories/) workshop at the Mittag-Leffler Institute
 - Inaugural member of the [Homotopical Algebra and Higher Category Theory from Foundations to Applications](https://sites.google.com/view/homalghigh/home?authuser=0) EMS TAG (European Mathematical Society Topical Activity Group)
@@ -165,3 +187,5 @@ with Benedikt Ahrens, Michael Shulman, Dimitris Tsementzis
 - PC Member of [MFPS 2023](https://coalg.org/calco-mfps-2023/mfps/)
 - Scientific organizer of [HoTT/UF 2022](https://hott-uf.github.io/2022/)
 - Organizer of [Midwest HoTT Seminar 2020](https://paigenorth.github.io/midwesthott/) (cancelled)
+
+</details>
